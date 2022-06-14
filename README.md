@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @SriniVadhi
+- 👋 Hi, I’m Srinivas Vadhiraj
 - 👀 I’m interested in math, computer science, and music.
-- 🌱 I’m currently in the 10th grade.
 
 
 <!---
