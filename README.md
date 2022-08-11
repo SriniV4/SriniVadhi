@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Srinivas Vadhiraj
-- 👀 I’m interested in math, computer science, and music.
+- 👋 Hi, I’m Srini
 
 
 <!---
